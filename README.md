@@ -36,7 +36,7 @@ Reading List of Multi-Modal tasks.
   - [8.1 Paper](#81-paper)
   - [8.2 Datasets](#82-datasets)
 
-- [7. Others](#7-others)
+- [9. Others](#7-others)
   - [6.1 Paper](#61-paper)
   - [6.2 Datasets](#62-datasets)
 
@@ -95,6 +95,17 @@ Reading List of Multi-Modal tasks.
 
 1. Sunny Verma, Jiwei Wang, Zhefeng Ge, Rujia Shen, Fan Jin, Yang Wang, Fang Chen, Wei Liu. **Deep-HOSeq: Deep Higher Order Sequence Fusion for Multimodal Sentiment Analysis**. ICDM 2020. [[paper]](https://arxiv.org/abs/2010.08218)[[code]](https://github.com/sverma88/Deep-HOSeq--ICDM-2020)
 
+1. Sijie Mai, Haifeng Hu, Songlong Xing. **Divide, Conquer and Combine: Hierarchical Feature Fusion Network with Local and Global Perspectives for Multimodal Affective Computing**. ACL 2019. [[paper]](https://aclanthology.org/P19-1046/)
+
+1. Dushyant Singh Chauhan, Md Shad Akhtar, Asif Ekbal, Pushpak Bhattacharyya. **Context-aware Interactive Attention for Multi-modal Sentiment and Emotion Analysis**. EMNLP 2019. [[paper]](https://www.iitp.ac.in/~ai-nlp-ml/resources.html)
+
+1. Quoc-Tuan Truong, Hady W. Lauw. **VistaNet: Visual Aspect Attention Network for Multimodal Sentiment Analysis**. AAAI 2019. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/3799) [[code]](https://github.com/PreferredAI/vista-net)
+
+1. Sunny Verma, Chen Wang, Liming Zhu, Wei Liu. **DeepCU: Integrating both Common and Unique Latent Information for
+Multimodal Sentiment Analysis**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0503.pdf) [[code]](https://github.com/sverma88/DeepCU-IJCAI19)
+
+1. Jianfei Yu, Jing Jiang. **Adapting BERT for Target-Oriented Multimodal Sentiment Classification**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0751.pdf) [[code]](https://github.com/jefferyYu/TomBERT)
+
 ### 1.2 datasets
 1. Wenmeng Yu, Hua Xu, Fanyang Meng, Yilin Zhu, Yixiao Ma, Jiele Wu, Jiyun Zou, Kaicheng Yang. **CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality**. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.343/)[[code]](https://github.com/thuiar/MMSA)
 
@@ -104,7 +115,9 @@ Reading List of Multi-Modal tasks.
 1. 【all sub-tasks】 Yan Ling, Jianfei Yu, Rui Xia. **Vision-Language Pre-Training for Multimodal Aspect-Based Sentiment Analysis**. ACL 2022. [[paper]](https://aclanthology.org/2022.acl-long.152/) [[code]](https://github.com/NUSTM/VLP-MABSA)
 
 1. 【all sub-tasks】 Xincheng Ju, Dong Zhang, Rong Xiao, Junhui Li, Shoushan Li, Min Zhang, Guodong Zhou. **Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection**. EMNLP 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.360/) [[code]](https://github.com/manlp-suda/jml)
- 
+
+1. 	Nan Xu, Wenji Mao, Guandan Chen. **Multi-Interactive Memory Network for Aspect Based Multimodal Sentiment Analysis**. AAAI 2019. [[paper]](https://ojs.aaai.org//index.php/AAAI/article/view/3807) [[code]](https://github.com/xunan0812/MIMN)
+
 ### 2.2 datasets
 
 
@@ -126,6 +139,8 @@ Reading List of Multi-Modal tasks.
  
 1. Hongliang Pan, Zheng Lin, Peng Fu, Yatao Qi, Weiping Wang. **Modeling Intra and Inter-modality Incongruity for Multi-Modal Sarcasm Detection**. EMNLP findings 2020. [[paper]](https://aclanthology.org/2020.findings-emnlp.124/) [[code]](https://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 
+1. Santiago Castro, Devamanyu Hazarika, Verónica Pérez-Rosas, Roger Zimmermann, Rada Mihalcea, Soujanya Poria. **Towards Multimodal Sarcasm Detection (An _Obviously_ Perfect Paper)**. ACL 2019. [[paper]](https://aclanthology.org/P19-1455/) [[code]](https://github.com/soujanyaporia/MUStARD)
+
 ### 4.2 datasets
 
 
@@ -143,6 +158,11 @@ Reading List of Multi-Modal tasks.
 
 1. 【Multi-label Emotion Detection】Dong Zhang, Xincheng Ju, Junhui Li, Shoushan Li, Qiaoming Zhu, Guodong Zhou. **Multi-modal Multi-label Emotion Detection with Modality and Label Dependence**. EMNLP 2020. [[paper]](https://aclanthology.org/2020.emnlp-main.291/) [[code]](https://github.com/MANLP-suda/MMS2S)
 
+1. Gustavo Aguilar, Viktor Rozgic, Weiran Wang, Chao Wang. **Multimodal and Multi-view Models for Emotion Recognition**. ACL 2019. [[paper]](https://aclanthology.org/P19-1095/) [[code]](https://github.com/MANLP-suda/MMS2S)
+
+1. Md Shad Akhtar, Dushyant Chauhan, Deepanway Ghosal, Soujanya Poria, Asif Ekbal, Pushpak Bhattacharyya. **Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis**. NAACL 2019. [[paper]](https://aclanthology.org/N19-1034/) [[code]](https://github.com/DushyantChauhan/NAACL-19-CIM)
+
+1. Runnan Li, Zhiyong Wu, Jia Jia, Yaohua Bu, Sheng Zhao, Helen Meng. **Towards Discriminative Representation Learning for Speech Emotion Recognition**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0703.pdf) [[code]](https://github.com/thuhcsi/IJCAI2019-DRL4SER/)
 
 ### 5.2 datasets
 
