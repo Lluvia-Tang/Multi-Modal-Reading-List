@@ -109,6 +109,11 @@ Multimodal Sentiment Analysis**. IJCAI 2019. [[paper]](https://www.ijcai.org/Pro
 ### 1.2 datasets
 1. Wenmeng Yu, Hua Xu, Fanyang Meng, Yilin Zhu, Yixiao Ma, Jiele Wu, Jiyun Zou, Kaicheng Yang. **CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality**. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.343/)[[code]](https://github.com/thuiar/MMSA)
 
+1. 【Sentiment analysis & Emotion Recognition】AmirAli Bagher Zadeh, Paul Pu Liang, Soujanya Poria, Erik Cambria, Louis-Philippe Morency. **Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph**. ACL 2018. [[paper]](https://aclanthology.org/P18-1208/) [[code]](http://immortal.multicomp.cs.cmu.edu/) https://github.com/A2Zadeh/CMU-MultimodalSDK
+
+1. Amir Zadeh, Rowan Zellers, Eli Pincus, Louis-Philippe Morency. **MOSI: Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis in Online Opinion Videos**. 2016. [[paper]](https://arxiv.org/abs/1606.06259) [[code]](http://immortal.multicomp.cs.cmu.edu/)
+
+1. Verónica Pérez-Rosas, Rada Mihalcea, Louis-Philippe Morency. **Utterance-Level Multimodal Sentiment Analysis**. ACL 2013. [[paper]](https://aclanthology.org/P13-1096/) [[code]](https://web.eecs.umich.edu/~mihalcea/downloads.html)
 
 ## 2. Multimodal-Aspect-based-Sentiment-Analysis
 ### 2.1 paper
@@ -165,7 +170,7 @@ Multimodal Sentiment Analysis**. IJCAI 2019. [[paper]](https://www.ijcai.org/Pro
 1. Runnan Li, Zhiyong Wu, Jia Jia, Yaohua Bu, Sheng Zhao, Helen Meng. **Towards Discriminative Representation Learning for Speech Emotion Recognition**. IJCAI 2019. [[paper]](https://www.ijcai.org/Proceedings/2019/0703.pdf) [[code]](https://github.com/thuhcsi/IJCAI2019-DRL4SER/)
 
 ### 5.2 datasets
-
+1. 【Conversations Emotion Recognition】Soujanya Poria, Devamanyu Hazarika, Navonil Majumder, Gautam Naik, Erik Cambria, Rada Mihalcea. **MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations**. ACL 2019. [[paper]](https://aclanthology.org/P19-1050/)[[code]](http://affective-meld.github.io)
 
 ## 6. Multimodal-Complaint-Identification
 ### 6.1 paper
@@ -212,4 +217,4 @@ Multimodal Sentiment Analysis**. IJCAI 2019. [[paper]](https://www.ijcai.org/Pro
 
 1. Tulika Saha, Apoorva Upadhyaya, Sriparna Saha, Pushpak Bhattacharyya. **Towards Sentiment and Emotion aided Multi-modal Speech Act Classification in Twitter**. NAACL 2021. [[paper]](https://aclanthology.org/2021.naacl-main.456/)
 
-1. Tulika Saha, Apoorva Upadhyaya, Sriparna Saha, Pushpak Bhattacharyya. **Towards Sentiment and Emotion aided Multi-modal Speech Act Classification in Twitter**. NAACL 2021. [[paper]](https://aclanthology.org/2021.naacl-main.456/) [[code]](https://github.com/microsoft/GEM)
+1. 【Humor Detection】Md Kamrul Hasan, Wasifur Rahman, AmirAli Bagher Zadeh, Jianyuan Zhong, Md Iftekhar Tanveer, Louis-Philippe Morency, Mohammed (Ehsan) Hoque. **UR-FUNNY: A Multimodal Language Dataset for Understanding Humor**. EMNLP 2019. [[paper]](https://aclanthology.org/D19-1211/) [[code]](https://github.com/ROC-HCI/UR-FUNNY)
