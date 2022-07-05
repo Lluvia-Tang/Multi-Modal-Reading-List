@@ -13,32 +13,32 @@ Reading List of Multi-Modal tasks.
   - [2.2 Datasets](#22-datasets)
 
 - [3. Multimodal-Targeted-Sentiment-Analysis](#3-mtsc)
-  - [3.1 Paper](#11-paper)
-  - [3.2 Datasets](#12-datasets)
+  - [3.1 Paper](#31-paper)
+  - [3.2 Datasets](#32-datasets)
   
 - [4. Multimodal-Sarcasm-Detection](#4-msd)
-  - [4.1 Paper](#31-paper)
-  - [4.2 Datasets](#32-datasets)
+  - [4.1 Paper](#41-paper)
+  - [4.2 Datasets](#42-datasets)
  
 - [5. Multimodal-Emotion-Recognition](#5-mer)
-  - [5.1 Paper](#41-paper)
-  - [5.2 Datasets](#42-datasets)
+  - [5.1 Paper](#51-paper)
+  - [5.2 Datasets](#52-datasets)
 
 - [6. Multimodal-Complaint-Identification](#6-mci)
-  - [6.1 Paper](#51-paper)
-  - [6.2 Datasets](#52-datasets)
+  - [6.1 Paper](#61-paper)
+  - [6.2 Datasets](#62-datasets)
 
 - [7. Multimodal-Rumor-Detection](#7-mrd)
-  - [7.1 Paper](#51-paper)
-  - [7.2 Datasets](#52-datasets)
+  - [7.1 Paper](#71-paper)
+  - [7.2 Datasets](#72-datasets)
 
 - [8. Multimodal-Hate-Detection](#8-mhd)
   - [8.1 Paper](#81-paper)
   - [8.2 Datasets](#82-datasets)
 
-- [9. Others](#7-others)
-  - [6.1 Paper](#61-paper)
-  - [6.2 Datasets](#62-datasets)
+- [9. Others](#9-others)
+  - [9.1 Paper](#91-paper)
+  - [9.2 Datasets](#92-datasets)
 
 <!--
   - [1.2 Aspect Extraction](#12-aspect-extraction)
