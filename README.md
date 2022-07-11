@@ -153,6 +153,8 @@ Multimodal Sentiment Analysis**. IJCAI 2019. [[paper]](https://www.ijcai.org/Pro
 ### 5.1 paper
 1. Yi Zhang, Mingyuan Chen, Jundong Shen, Chongjun Wang. **Tailor Versatile Multi-modal Learning for Multi-label Emotion Recognition**. AAAI 2022. [[paper]](https://arxiv.org/pdf/2201.05834.pdf) [[code]](https://github.com/kniter1/TAILOR)
 
+1. Abhinav Joshi, Ashwani Bhat, Ayush Jain, Atin Vikram Singh, Ashutosh Modi. **COGMEN: COntextualized GNN based Multimodal Emotion recognitioN**. NAACL 2022. [[paper]](https://arxiv.org/abs/2205.02455) [[code]](https://github.com/exploration-lab/cogmen)
+
 1. Jingwen Hu, Yuchen Liu, Jinming Zhao, Qin Jin. **MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.440/) [[code]](https://github.com/hujingwen6666/MMGCN)
 
 1. Jinming Zhao, Ruichen Li, Qin Jin. **Missing Modality Imagination Network for Emotion Recognition with Uncertain Missing Modalities**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.203/) [[code]](https://github.com/AIM3-RUC/MMIN)
