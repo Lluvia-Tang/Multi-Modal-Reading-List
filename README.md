@@ -153,7 +153,9 @@ Multimodal Sentiment Analysis**. IJCAI 2019. [[paper]](https://www.ijcai.org/Pro
 ### 5.1 paper
 1. Yi Zhang, Mingyuan Chen, Jundong Shen, Chongjun Wang. **Tailor Versatile Multi-modal Learning for Multi-label Emotion Recognition**. AAAI 2022. [[paper]](https://arxiv.org/pdf/2201.05834.pdf) [[code]](https://github.com/kniter1/TAILOR)
 
-1. Jingwen Hu, Yuchen Liu, Jinming Zhao, Qin Jin. **MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation**. AAAI 2022. [[paper]](https://aclanthology.org/2021.acl-long.440/) [[code]](https://github.com/hujingwen6666/MMGCN)
+1. Jingwen Hu, Yuchen Liu, Jinming Zhao, Qin Jin. **MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.440/) [[code]](https://github.com/hujingwen6666/MMGCN)
+
+1. Jinming Zhao, Ruichen Li, Qin Jin. **Missing Modality Imagination Network for Emotion Recognition with Uncertain Missing Modalities**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.203/) [[code]](https://github.com/AIM3-RUC/MMIN)
 
 1. Wenliang Dai, Samuel Cahyawijaya, Zihan Liu, Pascale Fung. **Multimodal End-to-End Sparse Model for Emotion Recognition**. NAACL 2021. [[paper]](https://aclanthology.org/2021.naacl-main.417/) [[code]](https://github.com/wenliangdai/Multimodal-End2end-Sparse)
 
@@ -193,6 +195,8 @@ Multimodal Sentiment Analysis**. IJCAI 2019. [[paper]](https://www.ijcai.org/Pro
 
 ## 8. Multimodal-Hate-Detection
 ### 8.1 paper
+1. Xianbing Zhou, Yang Yong, Xiaochao Fan, Ge Ren, Yunfeng Song, Yufeng Diao, Liang Yang, Hongfei Lin. **Hate Speech Detection Based on Sentiment Knowledge Sharing**. ACL 2021. [[paper]](https://aclanthology.org/2021.acl-long.556/) [[code]](https://github.com/1783696285/sks)
+
 1. Austin Botelho, Scott Hale, Bertie Vidgen. **Deciphering Implicit Hate: Evaluating Automated Detection Algorithms for Multimodal Hate**. ACL findings 2021. [[paper]](https://aclanthology.org/2021.findings-acl.166/) [[code]](https://github.com/botelhoa/Dog_Whistle_Hate)
 
 
