@@ -192,6 +192,10 @@ Multimodal Sentiment Analysis**. IJCAI 2019. [[paper]](https://www.ijcai.org/Pro
 
 1. Shengsheng Qian, Jinguang Wang, Jun Hu, Quan Fang and Changsheng Xu. **Hierarchical Multi-modal Contextual Attention Network for Fake News Detection** SIGIR 2021. [[paper]](https://dl.acm.org/doi/10.1145/3404835.3462871)
 
+1. 	Wenjia Zhang, Lin Gui, Yulan He. **Supervised Contrastive Learning for Multimodal Unreliable News Detection in COVID-19 Pandemic** CIKM 2021. [[paper]](https://dl.acm.org/doi/10.1145/3459637.3482196)[[code]](https://github.com/wenjiazh/btic)
+
+1. 	Peng Qi, Juan Cao, Xirong Li, Huan Liu, Qiang Sheng, Xiaoyue Mi, Qin He, Yongbiao Lv, Chenyang Guo, Yingchao Yu. **Improving Fake News Detection by Using an Entity-enhanced Framework to Fuse Diverse Multimodal Clues**. ACMM 2021 [[paper]](https://dl.acm.org/doi/10.1145/3474085.3481548)
+
 1. Yixuan Chen, Dongsheng Li, Peng Zhang, Jie Sui, Qin Lv, Lu Tun and Li Shang. **Cross-modal Ambiguity Learning for Multimodal Fake News Detection**. WWW 2022. [[paper]](https://dl.acm.org/doi/10.1145/3485447.3511968) 
 
 ### 7.2 datasets
