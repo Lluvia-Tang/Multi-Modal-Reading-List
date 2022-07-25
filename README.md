@@ -182,15 +182,17 @@ Multimodal Sentiment Analysis**. IJCAI 2019. [[paper]](https://www.ijcai.org/Pro
 
 ### 6.2 datasets
 
-## 7. Multimodal-Rumor-Detection
+## 7. Multimodal-Rumor-Detection (Fake news detection)
 ### 7.1 paper
 1. Jiaqi Zheng, Xi Zhang, Sanchuan Guo, Quan Wang, Wenyu Zang, Yongdong Zhang. **MFAN: Multi-modal Feature-enhanced Attention Networks for Rumor Detection**. IJCAI 2022.
 
-1. 【Fake News Detection】 Yang Wu, Pengwei Zhan, Yunjian Zhang, Liming Wang, Zhen Xu. **Multimodal Fusion with Co-Attention Networks for Fake News Detection**. ACL findings 2021. [[paper]](https://aclanthology.org/2021.findings-acl.226/) 
+1. Yang Wu, Pengwei Zhan, Yunjian Zhang, Liming Wang, Zhen Xu. **Multimodal Fusion with Co-Attention Networks for Fake News Detection**. ACL findings 2021. [[paper]](https://aclanthology.org/2021.findings-acl.226/) 
 
 1. Mengzhu Sun, Xi Zhang, Jianqiang Ma, Yazheng Liu. **Inconsistency Matters: A Knowledge-guided Dual-inconsistency Network for Multi-modal Rumor Detection**. ENMLP findings 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.122/)[[code]](https://github.com/MengzSun/dual-inconsistency-rumor-detection-network)
 
-1. 【Fake News Detection】 Yixuan Chen, Dongsheng Li, Peng Zhang, Jie Sui, Qin Lv, Lu Tun and Li Shang. **Cross-modal Ambiguity Learning for Multimodal Fake News Detection**. WWW 2022. [[paper]](https://dl.acm.org/doi/10.1145/3485447.3511968) 
+1. Shengsheng Qian, Jinguang Wang, Jun Hu, Quan Fang and Changsheng Xu. **Hierarchical Multi-modal Contextual Attention Network for Fake News Detection** SIGIR 2021. [[paper]](https://dl.acm.org/doi/10.1145/3404835.3462871)
+
+1. Yixuan Chen, Dongsheng Li, Peng Zhang, Jie Sui, Qin Lv, Lu Tun and Li Shang. **Cross-modal Ambiguity Learning for Multimodal Fake News Detection**. WWW 2022. [[paper]](https://dl.acm.org/doi/10.1145/3485447.3511968) 
 
 ### 7.2 datasets
 
